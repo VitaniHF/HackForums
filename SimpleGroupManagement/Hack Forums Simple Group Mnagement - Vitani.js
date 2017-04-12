@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name            Hack Forums Simple Group Management - Vitani
 // @author          Vitani
-// @description     Adds people to groups
+// @namespace       https://github.com/VitaniHF/HackForums/
+// @description     Group management script for Hack Forums leaders and group owners.
 // @require         https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js
 // @include         *://hackforums.net/*
-// @version         1.0
+// @version         1.1
 // @copyright       2017+
 // @iconURL         https://github.com/VitaniHF/HackForums/blob/master/Vitani.png
-// @updateURL       
-// @downloadURL     
+// @updateURL       https://github.com/VitaniHF/HackForums/blob/master/SimpleGroupManagement/Hack%20Forums%20Simple%20Group%20Mnagement%20-%20Vitani.js
+// @downloadURL     https://github.com/VitaniHF/HackForums/blob/master/SimpleGroupManagement/Hack%20Forums%20Simple%20Group%20Mnagement%20-%20Vitani.js
 // ==/UserScript==
 //OP of the addtogroup Button and highlight user is Snorlax. Credits go to him for making the first version.
 //Credits also go to xadamxk, he inspired me to make this script.
