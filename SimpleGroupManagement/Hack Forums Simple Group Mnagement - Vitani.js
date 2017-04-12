@@ -39,13 +39,16 @@ function WhatPage(){
     if (window.location.href.includes("hackforums.net/member.php?action=profile&uid=")){
         RunOnEveryPage();
         RunOnProfile();
+        return;
     }
     if (window.location.href.includes("hackforums.net/managegroup.php?gid=")){
         RunOnEveryPage();
         HighlightUser();
+        return;
     }
     else{
         RunOnEveryPage();
+        return;
     }
 }
 
