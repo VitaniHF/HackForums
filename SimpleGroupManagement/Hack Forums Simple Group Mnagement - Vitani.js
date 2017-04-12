@@ -7,7 +7,7 @@
 // @include         *://hackforums.net/*
 // @version         1.1
 // @copyright       2017+
-// @iconURL         https://github.com/VitaniHF/HackForums/blob/master/Vitani.png
+// @iconURL         https://avatars1.githubusercontent.com/u/27237879?v=3&s=40
 // @updateURL       https://github.com/VitaniHF/HackForums/blob/master/SimpleGroupManagement/Hack%20Forums%20Simple%20Group%20Mnagement%20-%20Vitani.js
 // @downloadURL     https://github.com/VitaniHF/HackForums/blob/master/SimpleGroupManagement/Hack%20Forums%20Simple%20Group%20Mnagement%20-%20Vitani.js
 // ==/UserScript==
