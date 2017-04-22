@@ -21,13 +21,13 @@ var username = $("span[class*='group']").text();
 //Dynamic Variables, Change these to the right group!
 
 //URL to the group userbar you are moderating.
-var GroupUBurl = "https://hackforums.net/images/modern_bl/groupimages/english/notorious.png";
+var GroupUBurl = "https://hackforums.net/images/modern_bl/groupimages/english/mygroupUB.png";
 
 //Group ID of the group you are moderating. You can find it in the URL when managing users.
-var GroupID = 12;
+var GroupID = xxx;
 
 //Group Name of the group you are moderating, this speaks for itself.
-var GroupName = "Notorious";
+var GroupName = "MyGroup";
 
 
 
@@ -93,7 +93,7 @@ function RunOnProfile(){
     });
 }
 
-//Adds the Notorious members and requests buttons on every page after UserCP
+//Adds the group members and requests buttons on every page after UserCP
 function RunOnEveryPage(){
     var regex = "User CP</strong></a>";
     var revised = "User CP</strong></a>";
